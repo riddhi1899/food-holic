@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 26 Aug 2017 15:25:04 at http://themes.suelo.pl/sukces/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themes.suelo.pl/sukces/index.html -O1 "C:\My Web Sites\mywebpage" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:33:45	Error: 	"Not Found" (404) at link themes.suelo.pl/sukces/assets/fonts/glyphicons-halflings-regular.eot (from themes.suelo.pl/sukces/assets/css/styles.css)
+15:33:45	Error: 	"Not Found" (404) at link themes.suelo.pl/sukces/assets/fonts/glyphicons-halflings-regular.eot? (from themes.suelo.pl/sukces/assets/css/styles.css)
+15:33:45	Error: 	"Not Found" (404) at link themes.suelo.pl/sukces/assets/fonts/glyphicons-halflings-regular.woff2 (from themes.suelo.pl/sukces/assets/css/styles.css)
+15:33:45	Error: 	"Not Found" (404) at link themes.suelo.pl/sukces/assets/fonts/glyphicons-halflings-regular.woff (from themes.suelo.pl/sukces/assets/css/styles.css)
+15:33:45	Error: 	"Not Found" (404) at link themes.suelo.pl/sukces/assets/fonts/glyphicons-halflings-regular.ttf (from themes.suelo.pl/sukces/assets/css/styles.css)
+15:33:45	Error: 	"Not Found" (404) at link themes.suelo.pl/sukces/assets/fonts/glyphicons-halflings-regular.svg (from themes.suelo.pl/sukces/assets/css/styles.css)
+15:33:45	Warning: 	Retry after error -2 (Receive Time Out) at link themes.suelo.pl/sukces/assets/fonts/themify.eot? (from themes.suelo.pl/sukces/assets/css/styles.css)
+15:33:51	Warning: 	Retry after error -2 (Receive Time Out) at link themes.suelo.pl/sukces/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v (from themes.suelo.pl/sukces/assets/css/styles.css)
+15:33:54	Warning: 	Retry after error -2 (Receive Time Out) at link themes.suelo.pl/sukces/assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v (from themes.suelo.pl/sukces/assets/css/styles.css)
+15:33:58	Error: 	"Not Found" (404) at link themes.suelo.pl/sukces/assets/css/grabbing.png (from themes.suelo.pl/sukces/assets/css/styles.css)
+15:33:58	Warning: 	Retry after error -4 (No data (connection closed)) at link themes.suelo.pl/sukces/index-horizontal-dark.html (from themes.suelo.pl/sukces/project-example.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 29 seconds : 71 links scanned, 59 files written (4541747 bytes overall) [3055359 bytes received at 5369 bytes/sec], 2687070 bytes transferred using HTTP compression in 38 files, ratio 41%, 2.7 requests per connection
+(7 errors, 4 warnings, 0 messages)
